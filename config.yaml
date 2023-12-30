@@ -1,0 +1,5 @@
+community: "public"
+targets:
+  - type: "pdu"
+    alias: "pdu-1"
+    host: "pdu-1.admin.example.edu"
