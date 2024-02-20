@@ -6,7 +6,7 @@ require (
 	github.com/gosnmp/gosnmp v1.37.0
 	github.com/prometheus/client_golang v1.18.0
 	github.com/spf13/viper v1.18.2
-	go.uber.org/zap v1.26.0
+	go.uber.org/zap v1.27.0
 )
 
 require (
