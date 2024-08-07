@@ -3,7 +3,7 @@ module rittal-exporter
 go 1.21
 
 require (
-	github.com/gosnmp/gosnmp v1.37.0
+	github.com/gosnmp/gosnmp v1.38.0
 	github.com/prometheus/client_golang v1.19.1
 	github.com/spf13/viper v1.19.0
 	go.uber.org/zap v1.27.0
