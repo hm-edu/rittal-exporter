@@ -2,7 +2,7 @@ module rittal-exporter
 
 go 1.22.0
 
-toolchain go1.24.3
+toolchain go1.24.4
 
 require (
 	github.com/gosnmp/gosnmp v1.40.0
