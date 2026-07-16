@@ -5,7 +5,7 @@ go 1.24.0
 toolchain go1.26.5
 
 require (
-	github.com/gosnmp/gosnmp v1.43.2
+	github.com/gosnmp/gosnmp v1.44.0
 	github.com/prometheus/client_golang v1.23.2
 	github.com/spf13/viper v1.21.0
 	go.uber.org/zap v1.28.0
